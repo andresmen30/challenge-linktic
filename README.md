@@ -70,12 +70,12 @@ Elimina un registro
 ##### Clonar del repositorio
 
 ```
-git clone https://github.com/andresmen30/nisum-project.git
+git clone https://github.com/andresmen30/challenge-linktic.git
 ```
 
 ##### Compilar
 
-Ubíquese en la ruta /nisum-project
+Ubíquese en la ruta /challenge-linktic
 
 ```
 mvn clean install
@@ -83,15 +83,11 @@ mvn clean install
 
 ##### Desplegar
 
-Ubíquese en la ruta /nisum-project/target y ejecute:
+Ubíquese en la ruta /challenge-linktic/target y ejecute:
 
 ```
-java -jar nisum-project-v0.0.1-SNAPSHOT.jar
+java -jar challenge-linktic-0.0.1-SNAPSHOT.jar
 ```
-
-###### Documentación [https://documenter.getpostman.com/view/8454301/UV5aeF7C](https://documenter.getpostman.com/view/8454301/UVkmRHEc).
-
-
 
 
 
