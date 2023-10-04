@@ -1,0 +1,14 @@
+/Users/andresmendez/linktic-prueba/challenge-linktic/src/main/java/com/linktic/challengelinktic/ChallengeLinkticApplication.java
+/Users/andresmendez/linktic-prueba/challenge-linktic/src/main/java/com/linktic/challengelinktic/infrastructure/entity/Product.java
+/Users/andresmendez/linktic-prueba/challenge-linktic/src/main/java/com/linktic/challengelinktic/business/service/ProductService.java
+/Users/andresmendez/linktic-prueba/challenge-linktic/src/main/java/com/linktic/challengelinktic/business/mapper/ProductMapper.java
+/Users/andresmendez/linktic-prueba/challenge-linktic/src/main/java/com/linktic/challengelinktic/business/dto/ResponseDto.java
+/Users/andresmendez/linktic-prueba/challenge-linktic/src/main/java/com/linktic/challengelinktic/business/service/impl/ProductServiceImpl.java
+/Users/andresmendez/linktic-prueba/challenge-linktic/src/main/java/com/linktic/challengelinktic/api/controller/ProductController.java
+/Users/andresmendez/linktic-prueba/challenge-linktic/src/main/java/com/linktic/challengelinktic/api/exception/AlreadyExistException.java
+/Users/andresmendez/linktic-prueba/challenge-linktic/src/main/java/com/linktic/challengelinktic/infrastructure/repository/ProductRepository.java
+/Users/andresmendez/linktic-prueba/challenge-linktic/src/main/java/com/linktic/challengelinktic/api/exception/ExceptionHelper.java
+/Users/andresmendez/linktic-prueba/challenge-linktic/src/main/java/com/linktic/challengelinktic/util/ResponseUtil.java
+/Users/andresmendez/linktic-prueba/challenge-linktic/src/main/java/com/linktic/challengelinktic/api/exception/RecordNotFoundException.java
+/Users/andresmendez/linktic-prueba/challenge-linktic/src/main/java/com/linktic/challengelinktic/util/ConstantUtil.java
+/Users/andresmendez/linktic-prueba/challenge-linktic/src/main/java/com/linktic/challengelinktic/business/dto/ProductDto.java
